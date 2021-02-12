@@ -1,0 +1,13 @@
+Package: samplen
+Type: Package
+Title: Sample size using bootstrap
+Version: 0.1.0
+Date: 2021-11-02 
+Author: FQAPD2000798 
+Maintainer: The package maintainer <FQAPD2000798@local.net>
+Description: You can estimate the sample size based on bootstrap mean error 
+License: GPL-3
+Encoding: UTF-8
+Depends:  R (>= 3.5.0), Rmisc, bootstrap
+LazyData: true
+RoxygenNote: 7.1.1
