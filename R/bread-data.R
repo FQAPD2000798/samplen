@@ -1,8 +1,8 @@
 #' Bread data
 #'
 #' Data from a sensory experiment
-#' with data on 315 likert responses about appearance,
-#' aroma, taste, texture, color of bread.
+#' with data on 315 likert responses about acceptance, appearance,
+#' aroma, taste, texture, and color of bread.
 #' @docType data
 #'
 #' @usage data(bread)
@@ -13,8 +13,7 @@
 #'
 #' @references FQAP2000798
 #'
-#'
 #' @examples
-#' data(grav)
+#' data(bread)
 #' samplen(bread$color, 10)
 "bread"

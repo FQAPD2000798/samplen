@@ -1,8 +1,8 @@
 #' Cookie data
 #'
 #' Data from a sensory experiment
-#' with data on 315 likert responses about appearance,
-#' aroma, taste, texture, color of cookie.
+#' with data on 315 likert responses about acceptance, appearance,
+#' aroma, taste, texture, and color of cookie.
 #' @docType data
 #'
 #' @usage data(cookie)
@@ -13,8 +13,7 @@
 #'
 #' @references FQAP2000798
 #'
-#'
 #' @examples
-#' data(grav)
+#' data(cookie)
 #' samplen(cookie$color, 10)
 "cookie"

@@ -1,8 +1,8 @@
 #' Muffin data
 #'
 #' Data from a sensory experiment
-#' with data on 315 likert responses about appearance,
-#' aroma, taste, texture, color of muffin.
+#' with data on 315 likert responses about acceptance, appearance,
+#' aroma, taste, texture, and color of muffin.
 #' @docType data
 #'
 #' @usage data(muffin)
@@ -15,6 +15,6 @@
 #'
 #'
 #' @examples
-#' data(grav)
+#' data(muffin)
 #' samplen(muffin$color, 10)
 "muffin"

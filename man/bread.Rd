@@ -12,11 +12,11 @@ data(bread)
 }
 \description{
 Data from a sensory experiment
-with data on 315 likert responses about appearance,
-aroma, taste, texture, color of bread.
+with data on 315 likert responses about acceptance, appearance,
+aroma, taste, texture, and color of bread.
 }
 \examples{
-data(grav)
+data(bread)
 samplen(bread$color, 10)
 }
 \references{

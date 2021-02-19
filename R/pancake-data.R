@@ -1,8 +1,8 @@
 #' pancake data
 #'
 #' Data from a sensory experiment
-#' with data on 315 likert responses about appearance,
-#' aroma, taste, texture, color of pancake.
+#' with data on 315 likert responses about acceptance, appearance,
+#' aroma, taste, texture, and color of pancake.
 #' @docType data
 #'
 #' @usage data(pancake)
@@ -15,6 +15,6 @@
 #'
 #'
 #' @examples
-#' data(grav)
+#' data(pancake)
 #' samplen(pancake$color, 10)
 "pancake"
